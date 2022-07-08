@@ -1,0 +1,4 @@
+name: PaperKotlin
+version: 0.1.0
+main: host.skyone.mc.plugin.base.PaperKotlin
+api-version: 1.19

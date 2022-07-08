@@ -1,4 +1,7 @@
 name: PaperKotlin
+description: Kotlin language support library for plugin of paper minecraft server
 version: 0.1.0
 main: host.skyone.mc.plugin.base.PaperKotlin
 api-version: 1.19
+author: skyone
+website: https://github.com/skyone-wzw/paper-kotlin
